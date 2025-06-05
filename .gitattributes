@@ -1,0 +1,2 @@
+survey-data.csv filter=lfs diff=lfs merge=lfs -text
+survey-data.sqlite filter=lfs diff=lfs merge=lfs -text
